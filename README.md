@@ -21,3 +21,4 @@ Sample website with plenty of files for demos
 
 added for the no fast forward merge
 
+## added for conflict in conflict branch 
