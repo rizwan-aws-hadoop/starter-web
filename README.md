@@ -16,3 +16,7 @@ This has been addded for the local working directiry
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## No Fast Forward Merge
+
+added for the no fast forward merge
