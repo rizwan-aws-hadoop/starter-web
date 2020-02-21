@@ -1,1 +1,2 @@
 level1file
+adding lines to check if git reset can mve from local git to staging.
