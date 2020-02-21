@@ -21,6 +21,3 @@ Sample website with plenty of files for demos
 
 added for the no fast forward merge
 
-## Automatic Merges
-
-## Adding stuff to get conflict
