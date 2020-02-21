@@ -1,0 +1,3 @@
+just a test file which is not git added yet.
+
+this has been git added and now it is in sttaging. this line wil modify the file and this modified version should be in wd while the old version in staging.
